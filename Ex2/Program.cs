@@ -16,7 +16,7 @@
  
             if(num1 > num2 && num1 > num3)
             {
-                    Console.WriteLine($"Max={num1}");
+                Console.WriteLine($"Max={num1}");
             }     
             else if (num2>num3)
             {
