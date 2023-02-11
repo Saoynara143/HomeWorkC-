@@ -1,0 +1,15 @@
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/bin/Debug/net6.0/3Ex_3
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/bin/Debug/net6.0/3Ex_3.deps.json
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/bin/Debug/net6.0/3Ex_3.runtimeconfig.json
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/bin/Debug/net6.0/3Ex_3.dll
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/bin/Debug/net6.0/3Ex_3.pdb
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.csproj.AssemblyReference.cache
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.AssemblyInfoInputs.cache
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.AssemblyInfo.cs
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.dll
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/refint/3Ex_3.dll
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.pdb
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/3Ex_3.genruntimeconfig.cache
+/Users/artem/Desktop/HomeWorkC#/3Ex_3/obj/Debug/net6.0/ref/3Ex_3.dll
