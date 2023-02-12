@@ -1,0 +1,15 @@
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/bin/Debug/net6.0/Home_work_4.1
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/bin/Debug/net6.0/Home_work_4.1.deps.json
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/bin/Debug/net6.0/Home_work_4.1.runtimeconfig.json
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/bin/Debug/net6.0/Home_work_4.1.dll
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/bin/Debug/net6.0/Home_work_4.1.pdb
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.csproj.AssemblyReference.cache
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.AssemblyInfoInputs.cache
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.AssemblyInfo.cs
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.dll
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/refint/Home_work_4.1.dll
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.pdb
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/Home_work_4.1.genruntimeconfig.cache
+/Users/artem/Desktop/HomeWorkC#/Home_work_4.1/obj/Debug/net6.0/ref/Home_work_4.1.dll
